@@ -1,2 +1,2 @@
 # Optymalizacja
-"""kod"""
+'''kod
