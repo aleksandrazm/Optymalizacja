@@ -37,3 +37,4 @@ for i in range(0,len(funkcja_celu)):
 g = InteractiveLPProblem(ograniczenia, b, c, 'x',constraint_type="==", variable_type=">=")
 view(g)
 print "rozwiazanie: " + str(g.optimal_solution())
+print "wartosc: " + str(g.optimal_value())
