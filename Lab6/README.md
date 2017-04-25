@@ -3,6 +3,8 @@ Program szuka wierzchołka, od którego można rozpocząć rozwiązywanie proble
 
 Zakładamy, że wszystkie ograniczenia podane są za pomocą równań oraz że wszystkie zmienne są nieujemne.
 
+Program można uruchomić na stronie: http://cloud.sagemath.org
+
 Testy:
 1. Dane A=[[8, 3, -5, -1], [3, 1, -2, -1]], b=[4, 1], c=[7, 2, -3, -1]
    wynik: rozwiązanie optymalne v=[3,0,4,0,0,0], wartość optymalna x=0.
