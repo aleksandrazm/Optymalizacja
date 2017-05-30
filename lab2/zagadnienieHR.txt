@@ -1,0 +1,36 @@
+\* Problem: zagadnienie HR *\
+
+Maximize
+92 a2 + 91 a3 + 92 b1 + 44 b2 + 10 b3 + 94 c1 + 87 c2 + 93 c3
+
+Subject To
+a1 + a2 + a3 <= 1
+b1 + b2 + b3 <= 1
+c1 + c2 + c3 <= 1
+a1 + b1 + c1 <= 1
+a2 + b2 + c2 <= 1
+a3 + b3 + c3 <= 1
+
+Bounds
+0 <= a1 <= 1
+0 <= a2 <= 1
+0 <= a3 <= 1
+0 <= b1 <= 1
+0 <= b2 <= 1
+0 <= b3 <= 1
+0 <= c1 <= 1
+0 <= c2 <= 1
+0 <= c3 <= 1
+
+Generals
+a1
+a2
+a3
+b1
+b2
+b3
+c1
+c2
+c3
+
+End
